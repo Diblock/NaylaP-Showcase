@@ -68,37 +68,37 @@ The Android version is already functional and has been packaged as an APK for re
   <tr>
     <td width="50%" valign="top">
       <h3>Login</h3>
-      <img src="media/screenshots/login.png" width="260" alt="NaylaPP Login screen" />
+      <img src="media/login.png" width="260" alt="NaylaPP Login screen" />
     </td>
     <td width="50%" valign="top">
       <h3>Home</h3>
-      <img src="media/screenshots/home.png" width="260" alt="NaylaPP Home screen" />
+      <img src="media/home.png" width="260" alt="NaylaPP Home screen" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Calendar</h3>
-      <img src="media/screenshots/calendar.png" width="260" alt="NaylaPP Calendar screen" />
+      <img src="media/calendar.png" width="260" alt="NaylaPP Calendar screen" />
     </td>
     <td width="50%" valign="top">
       <h3>Register — Daily Log</h3>
-      <img src="media/screenshots/register_daily.png" width="260" alt="NaylaPP Daily Register screen" />
+      <img src="media/register_daily.png" width="260" alt="NaylaPP Daily Register screen" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Register — Period</h3>
-      <img src="media/screenshots/register_period.png" width="260" alt="NaylaPP Period Register screen" />
+      <img src="media/register_period.png" width="260" alt="NaylaPP Period Register screen" />
     </td>
     <td width="50%" valign="top">
       <h3>History</h3>
-      <img src="media/screenshots/history.png" width="260" alt="NaylaPP History screen" />
+      <img src="media/history.png" width="260" alt="NaylaPP History screen" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Settings</h3>
-      <img src="media/screenshots/settings.png" width="260" alt="NaylaPP Settings screen" />
+      <img src="media/settings.png" width="260" alt="NaylaPP Settings screen" />
     </td>
     <td width="50%" valign="top"></td>
   </tr>
